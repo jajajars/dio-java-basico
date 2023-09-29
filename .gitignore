@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 java-anatomia-de-classes/java-anatomia-classes/.vscode/settings.json
 tipos-variaveis/tipos-variaveis/.vscode/settings.json
+java-terminal/.vscode/launch.json
+java-terminal/.vscode/settings.json
