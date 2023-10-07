@@ -28,3 +28,8 @@ java-terminal/.vscode/launch.json
 java-terminal/.vscode/settings.json
 controle-fluxo/.vscode/settings.json
 controle-fluxo/README.md
+exemplo-pacotes/README.md
+.gitignore
+exemplo-pacotes/.vscode/settings.json
+getters-setters/.vscode/settings.json
+getters-setters/README.md
